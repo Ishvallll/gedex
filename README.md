@@ -1,2 +1,0 @@
-# gedex
-Ignore this bs
